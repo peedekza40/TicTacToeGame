@@ -15,9 +15,10 @@
 ในตัวเกมผมมีการใส่ระบบ AI เพื่อให้ผู้เล่นสามารถเล่นคนเดียวสู้กับ Bot ได้ โดยใช้ Algorithm Minimax เข้ามาใช้ในการหาตาเดินที่ดีที่สุด และมีการใช้เทคนิคกำหนด depth ในการค้นหา และ Alpha - Beta pruning ในการตัด path ที่ไม่จำเป็นในการค้นหาออกไป เพื่อให้ตัว AI ทำงานได้อย่างรวดเร็วที่สุด เท่าที่พอจะต่อกรกับผู้เล่นได้นั้นเอง
 
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+#### Support Android 11.0 (API Level 30) ขึ้นไป
+* ดาวโหลดไฟล์ .APK ตามลิงค์นี้ : https://github.com/peedekza40/TicTacToeGame/releases/tag/tic-tac-toe-1.0.0
+* ทำการย้ายไฟล์ .APK เข้า Mobile Android
+* ติดตั้ง Application โดยไปที่ Location ที่ไฟล์เก็บไว้ ซึ่งตัว App จะถูกมองว่าเป็น Untrusted application ให้ทำตามวิธีตามลิงค์นี้เพื่อติดตั้ง : https://blog.appaloosa.io/en/guides/how-to-install-apps-from-unknown-sources-in-android 
 
 
 ## Authors
