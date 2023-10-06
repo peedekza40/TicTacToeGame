@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Unity Editor",
+            "type": "vstuc",
+            "request": "attach"
+        },
+        {
+            "name": "Attach",
+            "type": "vstuc",
+            "request": "attach",
+            "endPoint": "127.0.0.1:56461"
+        }
+    ]
+}
